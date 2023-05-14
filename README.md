@@ -74,6 +74,6 @@ Do this before breakfast, takes approximately 18 minutes
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/aa1b93a2-fdfe-49ad-9d17-e65e040fea9a" width="250" height="250">
 
 ## Cool-down (5 minutes)
-6. Stretching
+1. Stretching
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/1afd86d4-39fc-4b18-ab36-827d42ef0b35" width="250" height="250">
 
