@@ -1,59 +1,61 @@
 # Hormonal home workout (approx 18 minutes)
 
 Warm-up (5 minutes)
-* Jumping jacks: 30 seconds ![Jumping Jacks](https://giphy.com/gifs/jumping-jacks-ckMk3RKUK29lziaspI")
-* High knees: 30 seconds ![High Knees](https://www.verywellfit.com/thmb/1wKjGnBmYrNlLpQhNq9YVJQOvDk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/high-knees-356732-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a6b3e7c.jpg)
-* Butt kicks: 30 seconds ![Butt Kicks](https://www.verywellfit.com/thmb/1wKjGnBmYrNlLpQhNq9YVJQOvDk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/butt-kicks-356733-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a6b3e7c.jpg)
-* Arm circles: 30 seconds ![Arm Circles](https://www.verywellfit.com/thmb/1wKjGnBmYrNlLpQhNq9YVJQOvDk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/arm-circles-356734-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a6b3e7c.jpg)
-* Lunges: 10 each leg ![Lunges](https://www.verywellfit.com/thmb/1wKjGnBmYrNlLpQhNq9YVJQOvDk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/lunges-356735-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a6b3e7c.jpg)
-* Push-ups: 10 ![Push-ups](https://www.verywellfit.com/thmb/1wKjGnBmYrNlLpQhNq9YVJQOvDk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/push-ups-356736-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a6b3e7c.jpg)
-* Squats: 10 ![Squats](https://www.verywellfit.com/thmb/1wKjGnBmYrNlLpQhNq9YVJQOvDk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/squats-356737-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a6b3e7c.jpg)
+* Jumping jacks: 30 seconds ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/6c4f8766-fe38-4127-985b-9e8b7d32d72a)
+* High knees: 30 seconds ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/3b30719b-23e2-4157-82dd-4ca8506fe3b3)
+* Butt kicks: 30 seconds ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/41cbe2a8-3a21-4b70-84a9-7f38c38bd22a)
+* Arm circles: 30 seconds ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/0382e4b8-be7d-41df-8b85-809b291ce1e0)
+* Lunges: 10 each leg ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/6f8f88d0-4066-4727-a21f-cdc97616a773)
+* Push-ups: 10 ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/39703a23-a0ab-4bf3-974f-e2f79fb20aac)
+* Squats: 10 ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/e4c96e3d-de10-408e-a607-c81f2a9026a1)
 
 Workout (13 minutes)
 
 Round 1:
 * Burpees: 10 ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/cb1c3439-8d3d-45a7-b63a-04297e1f8347)
 * Squat jumps: 10
-![Squat Jumps](https://i.imgur.com/m4VdE5E.png) ![Squat Jumps](https://media.giphy.com/media/26FeVtZm5H3JM6Uko/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/ef78eb64-c544-4a80-bf58-8b5776e98873)
 
 * Lunges: 10 each leg
-![Lunges](https://i.imgur.com/kL80sQO.png) ![Lunges](https://media.giphy.com/media/xT3i0LxjnYzFxnTpJ6/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/6f8f88d0-4066-4727-a21f-cdc97616a773)
 
 * Plank jacks: 30 seconds
-![Plank Jacks](https://i.imgur.com/QNMAAKN.png) ![Plank Jacks](https://media.giphy.com/media/26FLhbv3wJf7JDyH2/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/c1ce5b19-d3b7-4484-b7ba-93edb5b73fa3)
 
 * Push-ups: 10
-![Push-ups](https://i.imgur.com/tqO7ooQ.png) ![Push-ups](https://media.giphy.com/media/VehJqHfqEnWZo7PCyF/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/39703a23-a0ab-4bf3-974f-e2f79fb20aac)
 
 Round 2:
 * Mountain climbers: 30 seconds
-![Mountain Climbers](https://i.imgur.com/00lk94M.png) ![Mountain Climbers](https://media.giphy.com/media/26AHy35aB5EjE2gh2/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/5c11b00a-d486-46cc-a254-6256207930e4)
 
 * Russian twists: 30 seconds
-![Russian Twists](https://i.imgur.com/e2kwF0c.png) ![Russian Twists](https://media.giphy.com/media/3o7WIP7QbVnhVlnZTG/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/3c49e925-d3fe-45f6-94cd-6004fa2f1d02)
 
 * Tricep dips: 10 each arm
-![Tricep Dips](https://i.imgur.com/rLf8cW3.png) ![Tricep Dips](https://media.giphy.com/media/3o7qE3DqOcbM5e1Ukw/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/db3b3a30-a364-4f3e-ab5d-d022f7263fb7)
 
 * Crunches: 30
-![Crunches](https://i.imgur.com/9kGK5i5.png) ![Crunches](https://media.giphy.com/media/26tjZ5u3UJf6EPb0U/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/bdd98b81-e363-4527-932d-110b69fad67b)
 
 * Supermans: 10
-![Supermans](https://i.imgur.com/EFiwoyE.png) ![Supermans](https://media.giphy.com/media/3o7WIEtFq6vCOzR8hq/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/ed18abd2-486f-4e9e-9e5f-5f67c9af513b)
 
 Round 3:
 * Jumping lunges: 10 each leg
-![Jumping Lunges](https://i.imgur.com/OrzDhQd.png) ![Jumping Lunges](https://media.giphy.com/media/3oEjI2aT6UjQyQ4G6I/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/c336592d-4221-4f4d-817e-48bbb68e9b81)
 
 * Bicycle crunches: 30 seconds
-![Bicycle Crunches](https://i.imgur.com/7BYKbUD.png) ![Bicycle Crunches](https://media.giphy.com/media/xT9IgG50Fb7Mi0pr0g/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/16bfc3a6-5551-4d71-909a-c577e31badcc)
 
 * Plank: 60 seconds
-![Plank](https://i.imgur.com/OkcBxdZ.png) ![Plank](https://media.giphy.com/media/3oEduOqJk6kzglT9Y4/giphy.gif)
+![image](https://github.com/davigotxi/workout-exercise/assets/6781646/dd978813-cec8-42ba-94d5-49c8041c5c37)
 
 
-* Side planks: 30 seconds each side ![Side planks](https://media.giphy.com/media/cfuL5gqFDreXxkWQ4f/giphy.gif) [Static image](https://i.imgur.com/tqG2L5K.jpg)
-* Bird dogs: 10 each side ![Bird dogs](https://media.giphy.com/media/K9bEExrSra22zPssJ0/giphy.gif) [Static image](https://i.imgur.com/1ry0Pum.jpg)
+* Side planks: 30 seconds each side ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/67dc473b-e6d1-4582-ab06-39a047b35292)
+
+* Bird dogs: 10 each side ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/aa1b93a2-fdfe-49ad-9d17-e65e040fea9a)
 
 Cool-down (5 minutes)
-* Stretching ![Stretching](https://media.giphy.com/media/1BF0xt1sVOhFZvW3JM/giphy.gif) [Static image](https://i.imgur.com/zLz2BcC.jpg)
+* Stretching ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/1afd86d4-39fc-4b18-ab36-827d42ef0b35)
+
