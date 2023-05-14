@@ -1,5 +1,7 @@
 # Hormonal home workout
-Do this before breakfast, takes approximately 18 minutes
+
+
+Produced by Bard AI. Do this before breakfast, takes approximately 18 minutes
 
 ## Warm-up (5 minutes)
 1. Jumping jacks: 30 seconds
