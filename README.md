@@ -1,6 +1,6 @@
 # Hormonal home workout (approx 18 minutes)
 
-Warm-up (5 minutes)
+## Warm-up (5 minutes)
 * Jumping jacks: 30 seconds
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/6c4f8766-fe38-4127-985b-9e8b7d32d72a" width="250" height="250">
 
@@ -22,9 +22,9 @@ Warm-up (5 minutes)
 * Squats: 10
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/e4c96e3d-de10-408e-a607-c81f2a9026a1" width="250" height="250">
 
-Workout (13 minutes)
+## Workout (13 minutes)
 
-Round 1:
+### Round 1:
 * Burpees: 10
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/cb1c3439-8d3d-45a7-b63a-04297e1f8347" width="250" height="250">
 
@@ -40,7 +40,7 @@ Round 1:
 * Push-ups: 10
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/39703a23-a0ab-4bf3-974f-e2f79fb20aac" width="250" height="250">
 
-Round 2:
+### Round 2:
 * Mountain climbers: 30 seconds
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/5c11b00a-d486-46cc-a254-6256207930e4" width="250" height="250">
 
@@ -56,7 +56,7 @@ Round 2:
 * Supermans: 10
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/ed18abd2-486f-4e9e-9e5f-5f67c9af513b" width="250" height="250">
 
-Round 3:
+### Round 3:
 * Jumping lunges: 10 each leg
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/c336592d-4221-4f4d-817e-48bbb68e9b81" width="250" height="250">
 
@@ -66,14 +66,13 @@ Round 3:
 * Plank: 60 seconds
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/dd978813-cec8-42ba-94d5-49c8041c5c37" width="250" height="250">
 
-
 * Side planks: 30 seconds each side
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/67dc473b-e6d1-4582-ab06-39a047b35292" width="250" height="250">
 
 * Bird dogs: 10 each side
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/aa1b93a2-fdfe-49ad-9d17-e65e040fea9a" width="250" height="250">
 
-Cool-down (5 minutes)
+## Cool-down (5 minutes)
 * Stretching
 <img src="https://github.com/davigotxi/workout-exercise/assets/6781646/1afd86d4-39fc-4b18-ab36-827d42ef0b35" width="250" height="250">
 
