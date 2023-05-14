@@ -12,7 +12,7 @@ Warm-up (5 minutes)
 Workout (13 minutes)
 
 Round 1:
-* Burpees: 10 ![Burpees](https://www.verywellfit.com/thmb/5MzgZzXUyX5UyXHsTtCtFzWZuIg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/burpees-356738-primary-recirc-2a2e8d8b9f6c4a7e9b1d3f7f4a
+* Burpees: 10 ![image](https://github.com/davigotxi/workout-exercise/assets/6781646/cb1c3439-8d3d-45a7-b63a-04297e1f8347)
 * Squat jumps: 10
 ![Squat Jumps](https://i.imgur.com/m4VdE5E.png) ![Squat Jumps](https://media.giphy.com/media/26FeVtZm5H3JM6Uko/giphy.gif)
 
